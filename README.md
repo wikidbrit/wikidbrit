@@ -1,5 +1,6 @@
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wikidbrit&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wikidbrit&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wikidbrit&repo=Neon-Portfolio-Page)](https://github.com/wikidbrit/Neon-Portfolio-Page)
 
 <!--
 **wikidbrit/wikidbrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
