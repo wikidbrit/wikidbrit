@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/ppm8TjI.png" height="75px"></img>
+<!-- <img src="https://i.imgur.com/ppm8TjI.png" height="75px"></img> -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wikidbrit&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
